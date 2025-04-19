@@ -1,7 +1,7 @@
-//package tn.esprit.spring.entities;
+package tn.esprit.spring.entities;
 
 
-//import java.io.Serializable;
+import java.io.Serializable;
 import java.util.Date;
 
 import javax.persistence.Entity;
